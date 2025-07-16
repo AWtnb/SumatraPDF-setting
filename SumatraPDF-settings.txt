@@ -55,6 +55,8 @@ UiLanguage = en
 EnableTeXEnhancements = false
 DefaultDisplayMode = single page
 DefaultZoom = fit page
+
+# https://www.sumatrapdfreader.org/docs/Commands
 Shortcuts [
 	[
 		Cmd = CmdCloseOtherTabs
@@ -75,6 +77,10 @@ Shortcuts [
 	[
 		Cmd = CmdCommandPalette
 		Key = Ctrl + Shift + P
+	]
+	[
+		Cmd = CmdCopyFilePath
+		Key = Ctrl + Shift + C
 	]
 	[
 		Cmd = CmdZoomFitWidthAndContinuous
