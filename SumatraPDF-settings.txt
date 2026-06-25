@@ -107,6 +107,10 @@ Shortcuts [
 		Key = H
 	]
 	[
+		Cmd = CmdPrevTab
+		Key = Ctrl + shift + tab
+	]
+	[
 		Cmd = CmdNone
 		Key = l
 	]
@@ -121,6 +125,10 @@ Shortcuts [
 	[
 		Cmd = CmdNextTab
 		Key = L
+	]
+	[
+		Cmd = CmdNextTab
+		Key = Ctrl + tab
 	]
 	[
 		Cmd = CmdToggleBookmarks
